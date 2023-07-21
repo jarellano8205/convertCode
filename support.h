@@ -2,10 +2,15 @@
 #define SUPPORT_H
 
 #include <iostream>
+#include <string>
+#include <cmath>
 
 using std::cout;
 using std::endl;
+using std::string;
+using std::pow;
+using std::stoi;
 
-int packetize(int x, int y);
+float bin2float(const string& binary);
 
 #endif
