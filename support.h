@@ -6,4 +6,6 @@
 using std::cout;
 using std::endl;
 
+int packetize(int x, int y);
+
 #endif

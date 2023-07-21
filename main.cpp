@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    cout << "hello there" << endl;
-    cout << "test\n";
+    packetize(5, 5);
+
     return 0;
 }
